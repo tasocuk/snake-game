@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editörler / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log ve geçici dosyalar
+*.log
